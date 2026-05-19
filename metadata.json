@@ -1,0 +1,6 @@
+{
+  "name": "VirtualDXB",
+  "description": "Premium virtual phone answering and customer communication support for UAE businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
